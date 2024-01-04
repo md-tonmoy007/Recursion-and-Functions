@@ -16,3 +16,10 @@ int main(){
     printf("i owe u %d big money and %f small money.\n", myBigone, mySmallOnes);
 
 }
+
+
+
+
+
+
+// => iamVoid
